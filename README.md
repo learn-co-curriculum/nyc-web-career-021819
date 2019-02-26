@@ -10,4 +10,5 @@
 | 2. Intro to Object Orientation | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/02-intro-to-oo) | [Video](https://www.youtube.com/watch?v=ad9bHt4Y-tE&feature=youtu.be) |
 | 3. Has Many & Belongs To | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/03-oo-relations-one-to-many) | [Video](https://www.youtube.com/watch?v=Sf5yMxKWxEg&feature=youtu.be) |
 | 4. Has Many Through | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/04-oo-many-to-many) | [Video](https://www.youtube.com/watch?v=Ts12HKOrSpU&feature=youtu.be) |
-| 4. OO Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/05-oo-review) | [Video](https://youtu.be/lnDQveAHJu8) |
+| 5. OO Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/05-oo-review) | [Video](https://youtu.be/lnDQveAHJu8) |
+| 6. Object Architecture | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/06-object-architecture) | [Video] coming soon... |
