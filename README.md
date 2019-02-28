@@ -13,4 +13,4 @@
 | 5. OO Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/05-oo-review) | [Video](https://youtu.be/lnDQveAHJu8) |
 | 6. Object Architecture | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/06-object-architecture) | [Video](https://www.youtube.com/watch?v=Nj9hnjvQU2o&feature=youtu.be) |
 | 7. Intro to SQL | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/07-into-to-sql) | [Video](https://www.youtube.com/watch?v=lT10giPpt48&feature=youtu.be) |
-| 8. Intro to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/08-intro-to-orms) | [Video] coming soon... |
+| 8. Intro to ORMs | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/08-intro-to-orms) | [Video](https://www.youtube.com/watch?v=KpS3O7vF8C0&feature=youtu.be) |
