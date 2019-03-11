@@ -19,3 +19,9 @@
 | 11. Hashes and the Internet | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/11-hashes-and-the-internet) | [Video](https://www.youtube.com/watch?v=g_oPVhjn31Q&feature=youtu.be) |
 | 12. Gitignore & Hiding API keys (prerecorded ~10min) | _No code_ | [Video](https://www.youtube.com/watch?v=5MEpPVREUjE&feature=youtu.be) |
 | 13. Intro to TDD | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/12-intro-to-tdd) | [Video](https://www.youtube.com/watch?v=vvHNXAwMWRA&feature=youtu.be) |
+
+## Module 2 RAILS 🚂
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 1. Intro to the internet | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/13-intro-to-internet) | [Video](https://youtu.be/02-LWfvdmAg) |
+| 1. Intro Sinatra | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/14-intro-to-sinatra) | [Video](https://youtu.be/jDArr5OKeBw) |
