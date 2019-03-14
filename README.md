@@ -28,3 +28,4 @@
 | 16. Sinatra Forms | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/15-sinatra-forms/fakeholidaytown) | [Part1](https://youtu.be/ULxNPAdL9sg)[Part2](https://youtu.be/GRkws2oyKIs)  |
 | 17. RESTful Routing | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/16-restful-routing/flatsushi) | [Slides](https://docs.google.com/presentation/d/1_elK-0OTxI-zFGUSme5JeN-c4Il30Q023RaVxvexwfg/edit#slide=id.g378a2b8862_0_5)  |
 | 18. Sinatra Associations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/16-sinatra-associations/spellface) | [Video](https://youtu.be/FFtvUBAAxjU)  |
+| 19. Intro to Rails 🚂🚂🚂 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/17-intro-to-rails) | [Video](https://youtu.be/svcjsxQZvmU)  |
