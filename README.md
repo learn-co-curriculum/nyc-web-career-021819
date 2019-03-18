@@ -30,3 +30,4 @@
 | 18. Sinatra Associations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/16-sinatra-associations/spellface) | [Video](https://youtu.be/FFtvUBAAxjU)  |
 | 19. Intro to Rails 🚂🚂🚂 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/17-intro-to-rails) | [Video](https://youtu.be/svcjsxQZvmU)  |
 | 20. Rails Forms and REST 🚂🚂🚂 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/18-rails-forms/bullred) | [Video](https://youtu.be/UnlsBmbcq8o)  |
+| 21. Rails Forms and Associations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/19-rails-associations/mintyfresh) | [Video](https://youtu.be/kWdvKMiyr1o) [Routes](https://youtu.be/9JtuTN5cbYA)  |
