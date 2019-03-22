@@ -33,3 +33,4 @@
 | 21. Rails Forms and Associations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/19-rails-associations/mintyfresh) | [Video](https://youtu.be/kWdvKMiyr1o) [Routes](https://youtu.be/9JtuTN5cbYA)  |
 | 21. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/20-rails-validations/spicysauce) | [Video](https://youtu.be/u0oB9YejT2Y)  |
 | 21. Rails Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/21-rails-review/revengers) | [Video](https://youtu.be/rTCueju-Lj4)  
+| 22. CSS Fundamentals | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/22-css-fundamentals) | [Video](https://youtu.be/UK3lB3LCzwE)  
