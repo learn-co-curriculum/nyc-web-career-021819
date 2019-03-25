@@ -34,4 +34,5 @@
 | 21. Rails Validations | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/20-rails-validations/spicysauce) | [Video](https://youtu.be/u0oB9YejT2Y)  |
 | 21. Rails Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/21-rails-review/revengers) | [Video](https://youtu.be/rTCueju-Lj4)  
 | 22. CSS Fundamentals | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/22-css-fundamentals) | [Video](https://youtu.be/UK3lB3LCzwE)  
-| 22. Rails cookies and Sessions 🍪 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/22-rails-sessions-cookies) | [Video](https://youtu.be/gtYJmaWnwtE)  
+| 22. Rails cookies and Sessions 🍪 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/22-rails-sessions-cookies) | [Video](https://youtu.be/gtYJmaWnwtE) 
+| 24. Rails Auth 🍪 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/24-rails-auth) | [Part1](https://youtu.be/XaGIKqg30vc)[Part2](https://youtu.be/K6P2jbsIDGs) |  
