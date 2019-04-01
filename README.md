@@ -38,5 +38,7 @@
 | 24. Rails Auth 🍪 | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/24-rails-auth) | [Part1](https://youtu.be/XaGIKqg30vc)[Part2](https://youtu.be/K6P2jbsIDGs) |  
 
 ## Module 3 
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
 | 25. Intro to JavaScript | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/25-intro-to-js) | [Video](https://www.youtube.com/watch?v=P849szEeWq0&feature=youtu.be) |
 | 26. Functions! callbaacks, scope, closures | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/26-functions--callbacks-scopes-closures) | [Video] coming soon... |
