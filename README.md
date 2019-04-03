@@ -43,3 +43,4 @@
 | 25. Intro to JavaScript | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/25-intro-to-js) | [Video](https://www.youtube.com/watch?v=P849szEeWq0&feature=youtu.be) |
 | 26. Functions: callbacks, scope, closures | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/26-functions--callbacks-scopes-closures) | [Video](https://www.youtube.com/watch?v=X0N460iTvd0&feature=youtu.be) |
 | 27. The DOM and Events | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/27-the-dom-and-events) | [Video](https://www.youtube.com/watch?v=G6EZlN5d4LU&feature=youtu.be) |
+| 28. Pokemon Search Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/28-dom-review) | [Video](https://youtu.be/U8_oexAMZOk) |
