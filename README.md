@@ -48,4 +48,5 @@
 | 30. Rails API | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/30-rails-api) | [Video i](https://www.youtube.com/watch?v=sZPpLUKneVk&feature=youtu.be) [Video ii](http://youtu.be/dnX4dfSWbSE) |
 | 31. JS Quotes Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/32-js-quotes-review) | [Video](https://youtu.be/fOblky5CFHI) |
 | 32. JS Toy Tale Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/33-js-fetch-crud-review) | [Video](https://youtu.be/b9qbXbFX9mc) |
+| 33. Function Context | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/31-function-context-and-intro-to-oo-js) | [Video](https://www.youtube.com/watch?v=IXEOY167sq0&feature=youtu.be) |
 
