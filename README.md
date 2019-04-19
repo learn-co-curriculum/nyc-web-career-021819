@@ -52,4 +52,5 @@
 | 34. OO Refactor | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/34-oo-refactor) | [Video](https://www.youtube.com/watch?v=4ESn-r5M8yQ&feature=youtu.be)|
 | 35. Big O | [Picture](bigo.png) | [Video](https://www.youtube.com/watch?v=Bz2yUt9PznQ&feature=youtu.be) |
 | 36. Recursion | [Slides](https://docs.google.com/presentation/d/1fhdnYFvSZqRJXw0hMNlT-dVNDV0Iqdv9HyJIGWeGXNc/edit?usp=sharing) | [Video](http://youtu.be/7Pna0xcfK7Q) |
+| 37. Deploying with Heroku and GitHub Pages | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/35-deploying-heroku-github-pages) | [Video](https://youtu.be/fQ8Gij-KzR8) |
 
