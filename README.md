@@ -54,3 +54,7 @@
 | 36. Recursion | [Slides](https://docs.google.com/presentation/d/1fhdnYFvSZqRJXw0hMNlT-dVNDV0Iqdv9HyJIGWeGXNc/edit?usp=sharing) | [Video](http://youtu.be/7Pna0xcfK7Q) |
 | 37. Deploying with Heroku and GitHub Pages | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/35-deploying-heroku-github-pages) | [Video](https://youtu.be/fQ8Gij-KzR8) |
 
+## Module 4 
+| Topic            | Code                | Video                |
+| -----            | ----                | -----                |
+| 38. Intro to React | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/38-intro-to-react) | [Video](https://youtu.be/DdA0ckvdwYM) |
