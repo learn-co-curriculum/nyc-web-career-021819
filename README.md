@@ -58,3 +58,4 @@
 | Topic            | Code                | Video                |
 | -----            | ----                | -----                |
 | 38. Intro to React / JSX and Props | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/38-intro-to-react) | [Intro to React](https://youtu.be/DdA0ckvdwYM) / [JSX and Props](https://youtu.be/QnLttNGQTmo) |
+| 39. State and Events | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/39-state-events-and-conditional-rendering) | [Video](https://youtu.be/o8unqDR-kFc) |
