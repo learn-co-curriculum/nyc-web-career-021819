@@ -60,3 +60,4 @@
 | 38. Intro to React / JSX and Props | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/38-intro-to-react) | [Intro to React](https://youtu.be/DdA0ckvdwYM) / [JSX and Props](https://youtu.be/QnLttNGQTmo) |
 | 39. State and Events | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/39-state-events-and-conditional-rendering) | [Video](https://youtu.be/o8unqDR-kFc) |
 | 40. Forms and Lifting State | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/40-forms-and-lifting-state) | [Forms](https://youtu.be/LulXnzCrOOA) / [Lifting State](https://youtu.be/WbO4B28D8V4) |
+| 41. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/41-component-lifecycle) | ---- |
