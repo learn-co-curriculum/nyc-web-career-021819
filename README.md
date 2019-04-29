@@ -63,3 +63,4 @@
 | 41. Component Lifecycle | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/41-component-lifecycle) | [Component Lifecycle](https://youtu.be/O_ivhHHkUNU) / [Practical Component Lifecycle](https://youtu.be/PVkX3uAsd4g) |
 | 42. Thinking in React| [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/42-thinking-in-react) | [Video](https://youtu.be/O2RJAK0jges) |
 | 43. Hogwarts Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/43-hogwarts-review/hogwarts) | [Video](https://youtu.be/gdfxYwovODE) |
+| 44. Best Practices | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/44-react-best-practices) | [Video](https://youtu.be/sLxf-Tl9TyQ) |
