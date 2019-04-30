@@ -64,3 +64,4 @@
 | 42. Thinking in React| [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/42-thinking-in-react) | [Video](https://youtu.be/O2RJAK0jges) |
 | 43. Hogwarts Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/43-hogwarts-review/hogwarts) | [Video](https://youtu.be/gdfxYwovODE) |
 | 44. Best Practices | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/44-react-best-practices) | [Video](https://youtu.be/sLxf-Tl9TyQ) |
+| 45. Sushi Saga Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/45-sushi-saga-review/mod-4-code-challenge-practice-nyc-web-career-021819-mod-4-practice-code-challenge-1556631020) | [Video](https://youtu.be/ttYJxOsWsko) |
