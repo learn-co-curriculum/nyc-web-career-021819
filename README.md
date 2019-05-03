@@ -66,3 +66,4 @@
 | 44. Best Practices | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/44-react-best-practices) | [Video](https://youtu.be/sLxf-Tl9TyQ) |
 | 45. Sushi Saga Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/45-sushi-saga-review/mod-4-code-challenge-practice-nyc-web-career-021819-mod-4-practice-code-challenge-1556631020) | [Video](https://youtu.be/ttYJxOsWsko) |
 | 46. React Under the Hood | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/46-react-under-the-hood) | [Video](https://youtu.be/617QlsMGdTg) |
+| 47. React Router | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/47-react-router) | [Video](https://youtu.be/XTA2vO_hVEU) |
