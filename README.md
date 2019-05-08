@@ -70,3 +70,5 @@
 | 48. Fullstack React Auth | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/48-fullstack-auth) | [Authentication](https://youtu.be/SYzp42ARzzc) / [Authorization](https://youtu.be/Lej7fER_MhU) |
 | 49. Higher Order Components | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/49-higher-order-components) | [Video](https://youtu.be/PI-Im2S9c1M) |
 | 50. React Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/50-react-review) | [Video](https://youtu.be/iNce1oPIudM) |
+| 51. Predux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/51-predux) | [Video](https://youtu.be/-QHTgHmB7r0) |
+
