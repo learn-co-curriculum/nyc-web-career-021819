@@ -72,4 +72,4 @@
 | 50. React Review | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/50-react-review) | [Video](https://youtu.be/iNce1oPIudM) |
 | 51. Predux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/51-predux) | [Video](https://youtu.be/-QHTgHmB7r0) |
 | 52. Redux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/52-redux) | [Video](https://youtu.be/NEIzu6L43OE) |
-
+| 53. React Redux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/53-react-redux) | [Video](https://youtu.be/qrI0CH4JPtU) |
