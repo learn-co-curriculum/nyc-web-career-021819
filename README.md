@@ -73,6 +73,6 @@
 | 51. Predux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/51-predux) | [Video](https://youtu.be/-QHTgHmB7r0) |
 | 52. Redux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/52-redux) | [Video](https://youtu.be/NEIzu6L43OE) |
 | 53. React Redux | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/53-react-redux) | [Video](https://youtu.be/qrI0CH4JPtU) |
-| 54. Redux Review & Patterns | [Code](https://github.com/learn-co-students/nyc-web-students-012819/tree/) | [Video](https://www.youtube.com/watch?v=paknCFK-Ckc&feature=youtu.be) |
+| 54. Redux Review & Patterns | [Code](https://github.com/learn-co-students/nyc-web-students-012819/tree/master/42-redux-patterns-and-abstractions) | [Video](https://www.youtube.com/watch?v=paknCFK-Ckc&feature=youtu.be) |
 | 55. CombineReducers and Async Redux (thunk) | [Code](https://github.com/learn-co-students/nyc-web-students-012819/tree/master/43-async-redux) | [Video](https://www.youtube.com/watch?v=D37nyzq7jG8&feature=youtu.be) |
 | 56. Redux Terminology | [Link](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6) | ... |
