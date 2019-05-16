@@ -78,3 +78,4 @@
 | 56. Redux Terminology | [Link](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6) | ... |
 | 57. Hashketball Returns (Redux Review) | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/54-hashketball-returns) | [Video](https://youtu.be/r7U-5cnXw_E) |
 | 58. Redux Auth | [Code](https://github.com/learn-co-students/nyc-web-102918/tree/master/49-jwt-auth-react-redux) | [Video](https://www.youtube.com/watch?v=DsAyrMy8qlc&feature=youtu.be) |
+| 59. Websockets: ActionCable & React | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/54-sockets--action-cable-and-react) | [Video] error uploading... coming soon... |
