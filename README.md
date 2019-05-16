@@ -77,3 +77,4 @@
 | 55. CombineReducers and Async Redux (thunk) | [Code](https://github.com/learn-co-students/nyc-web-students-012819/tree/master/43-async-redux) | [Video](https://www.youtube.com/watch?v=D37nyzq7jG8&feature=youtu.be) |
 | 56. Redux Terminology | [Link](https://gist.github.com/alexgriff/0e247dee73e9125177d9c04cec159cc6) | ... |
 | 57. Hashketball Returns (Redux Review) | [Code](https://github.com/learn-co-students/nyc-web-students-021819/tree/master/54-hashketball-returns) | [Video](https://youtu.be/r7U-5cnXw_E) |
+| 58. Redux Auth | [Code](https://github.com/learn-co-students/nyc-web-102918/tree/master/49-jwt-auth-react-redux) | [Video](https://www.youtube.com/watch?v=DsAyrMy8qlc&feature=youtu.be) |
